@@ -1,2 +1,3 @@
 # SiteDocuments
-Documents for https://adamlearns.live/
+
+Documents for https://adamlearns.com/
