@@ -4,7 +4,7 @@ Last update: March 29, 2020 ([version history](https://github.com/AdamLearns/Sit
 
 **Adam Learns** and **The AcAdamy** ("the site" or "the sites") are owned by **Xtonomous LLC** ("XTONOMOUS", "we", "us", "our") and operated by XTONOMOUS and its affiliates. We may be contacted via email at [adam@adamlearns.live](mailto:adam@adamlearns.live).
 
-The **Privacy Policy** ("this document") describes how we handle your information: what information we collet, what we do with it, who gets access to it, and mechanisms in place for you to update and/or remove information.
+The **Privacy Policy** ("this document") describes how we handle your information: what information we collect, what we do with it, who gets access to it, and mechanisms in place for you to update and/or remove information.
 
 This document may be updated from time to time. Your use of the Services indicates your agreement to the current terms.
 
@@ -42,7 +42,11 @@ For necessary functionality such as authentication, consent can only be revoked 
 
 Cookies are used to authenticate your account (i.e. they are session cookies and are required for Account-based functionality of the Services). These cookies persist for up to two weeks. They can be cleared by logging out.
 
-This data is shared with only one third party: Google Firebase, the underlying authentication system behind the Services.
+This authentication data is shared with only one third party: Google Firebase, the underlying authentication system behind the Services.
+
+Some third parties may also use cookies. For more information, see the "Third-party operators and services" section. To allow these, you must opt in to using them. [You change your settings at any time here](/cookies). If you opt out of cookies there, you are responsible for the deletion of the cookies.
+
+Note: this cookie policy generally addresses other forms of local storage as well (e.g. the browser's `localStorage` or IndexedDB). Some information may be stored solely to allow operation of the site.
 
 ## Third-party operators and services
 
@@ -50,16 +54,21 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 
 For further information, please see the relevant privacy policies for each Third Party Operator:
 
--   Google
-    -   Google Fonts<sup>[1](#referenced-links)</sup>: the Services make use of Google Fonts
-    -   Google Analytics<sup>[2](#referenced-links)</sup>: the Services use Google Analytics to collect aggregate information on session length, traffic sources, and user behavior patterns within the Services. Ad personalization is not enabled, and IP addresses are anonymized.
-    -   Google Firebase <sup>[3](#referenced-links)</sup>: the Services are run on Google Firebase. This includes site hosting, data storage, and authentication.
--   Paddle
-    -   Paddle's payment platform: <sup>[4](#referenced-links)</sup>: the Services make use of Paddle as a payment platform. XTONOMOUS does not get payment-specific information like your credit card, debit card, PayPal account, or home address. We _do_ have access to your email address as part of your Authentication Information.
+- Google
+  - Google Fonts<sup>1</sup>: the Services make use of Google Fonts
+  - Google Analytics<sup>2</sup>: the Services use Google Analytics to collect aggregate information on session length, traffic sources, and user behavior patterns within the Services. Ad personalization is not enabled, and IP addresses are anonymized.
+  - Google Firebase<sup>3</sup>: the Services are run on Google Firebase. This includes site hosting, data storage, and authentication.
+- Paddle
+  - Paddle's payment platform<sup>4</sup>: the Services make use of Paddle as a payment platform. XTONOMOUS does not get payment-specific information like your credit card, debit card, PayPal account, or home address. We _do_ have access to your email address as part of your Authentication Information.
+  - Paddle uses cookies to improve their site and for marketing activities<sup>4</sup>. Because Paddle uses them for marketing activities, we ask for your consent to use these cookies before allowing you to make a purchase. You are able to revoke this consent at any time through the Account page.
+- Identity providers (e.g. Google, Twitter, Twitch)
+  - When you log in using another site as an identity provider, you are actually going _through_ their site, at which point you are subject to their privacy policies. Please look up the privacy policy for these individual sites to find out more about how they treat your data.
 
 ## Accessing and updating your personal information
 
-You have the right to retrieve, update, and remove your personal information from our databases. If you have any problems or questions, please let us know by contacting us at [adam@adamlearns.live](mailto:adam@adamlearns.live) and we will assist you with the process. If the question pertains to personal information, then you must be emailing from the address that we have on file (for example, asking to delete a particular account will not be executed if it cannot be verified that you own the account in question), that way we can verify your identity before acting on the request.
+You have the right to retrieve, update, and remove your personal information from our databases. If you have any problems or questions, please let us know by contacting us at [adam@adamlearns.live](mailto:adam@adamlearns.live) and we will assist you with the process. If the question pertains to personal information, then you must email us from the address that we have on file, that way we can verify your identity before acting on the request.
+
+You can update your personal information from the Account page on the site. This includes your email address, any consent you may have given us (e.g. the consent to email you or to utilize certain cookies). You can also delete your account from here.
 
 We do not allow changing or removing information in cases of legitimate business or legal purposes. For example, if your account is banned from the Services, we will still process your account deletion, but we may retain your email address to prevent future registrations.
 
@@ -101,7 +110,7 @@ Our Privacy Policy may change from time to time. We will post any Policy changes
 
 ## Referenced links
 
--   <sup>1</sup>Google Fonts privacy FAQ: https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users
--   <sup>2</sup>How Google uses information from sites or apps that use their services: https://policies.google.com/technologies/partner-sites
--   <sup>3</sup>Google's general privacy policy: https://policies.google.com/privacy
--   <sup>4</sup>Paddle's privacy policy: https://paddle.com/privacy/
+- <sup>1</sup>Google Fonts privacy FAQ: https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users
+- <sup>2</sup>How Google uses information from sites or apps that use their services: https://policies.google.com/technologies/partner-sites
+- <sup>3</sup>Google's general privacy policy: https://policies.google.com/privacy
+- <sup>4</sup>Paddle's privacy policy: https://paddle.com/privacy/
