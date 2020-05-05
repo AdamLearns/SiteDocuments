@@ -9,7 +9,7 @@ Whenever you use the Services, you agree that these Terms of Service will contro
 ## Definitions
 
 - **Account**: any account provided by XTONOMOUS that you create to access certain Services.
-- **Privacy Policy**: [the XTONOMOUS privacy policy](https://github.com/AdamLearns/SiteDocuments/blob/master/privacy.md).
+- **Privacy Policy**: [the XTONOMOUS privacy policy](/privacy).
 - **Service** or **Services**: any app, site, and other related services by XTONOMOUS and its affiliates.
 - **User**: any individual not affiliated with XTONOMOUS who accesses the Services.
 - **User Content** or **User-generated Content**: any content created by Users.
@@ -40,9 +40,13 @@ Certain Modules may come with additional licenses. For example, code distributed
 
 XTONOMOUS reserves the right to stop providing access to the Services at any time and for any reason, permanently or temporarily, at which point any license granted to you will be automatically terminated or suspended. Unless required by law, XTONOMOUS will not provide any refund or compensation to any user in connection with such termination or suspension.
 
-**Account deletion**: when an Account is deleted, all real-money purchase data is also deleted. Should you ever make another Account with XTONOMOUS, these purchases cannot be restored.
+**Account deletion**: when an Account is deleted, you will also lose access to any content that you've purchased. Should you ever make another Account with XTONOMOUS, these purchases cannot be automatically restored. You can delete your Account through the site itself.
 
-**Purchases**: all transactions are final and not refundable.
+**Purchases**: for refund requests, please contact support with your invoice and country of purchase. We will try to handle requests in a timely manner (typically within 30 days).
+
+**Changes to prices**: prices may change at any time. If a course's price changes, e.g. due to a sale, the sale will not be retroactively applied to your purchases.
+
+**Changes to courses**: course content may change at any time, e.g. adding or removing videos.
 
 ## User-generated Content
 
@@ -89,7 +93,8 @@ You agree that XTONOMOUS is under no obligation to defend, indemnify, or hold ha
 ## General provisions
 
 1. It is your responsibility to read, understand and accept this agreement in connection with your use of the Services. You acknowledge that XTONOMOUS may make changes to the provisions of this agreement at any time and that Section headings in this agreement are for purposes of convenience only.
-2. Force Majeure: both you and XTONOMOUS shall be excused from any failure to perform any obligation under this agreement to the extent such failure is caused by war, terrorism, acts of public enemies, strikes or other labor disturbances, fires, floods, or any causes of like or different kind beyond the control of you or XTONOMOUS, as applicable under the circumstances.
-3. No Waiver: if we do not enforce a provision of these Terms, or our Privacy Policy, that does not waive our right to do so later. And, if we do expressly waive a provision of these Terms, or our Privacy Policy that does not mean it is waived for all time in the future. Any waiver must be in writing and signed by both you and us to be legally binding.
-4. Waiver: signed written consent from a legally authorized representative of XTONOMOUS is required to waive any provisions of this agreement. Any waiver of any provision of this agreement, intentional or otherwise, shall not be deemed a waiver of any other provisions of this agreement.
-5. Governing Law and Venue: this agreement and any controversy related to this agreement shall be interpreted in accordance with and governed by the laws of the state of Washington, or, as appropriate, by federal law as applied by a federal court sitting in Washington, both without regard to Florida choice-of-law rules.
+2. Neither Adam Learns nor The AcAdamy is an accredited learning institution.
+3. Force Majeure: both you and XTONOMOUS shall be excused from any failure to perform any obligation under this agreement to the extent such failure is caused by war, terrorism, acts of public enemies, strikes or other labor disturbances, fires, floods, or any causes of like or different kind beyond the control of you or XTONOMOUS, as applicable under the circumstances.
+4. No Waiver: if we do not enforce a provision of these Terms, or our Privacy Policy, that does not waive our right to do so later. And, if we do expressly waive a provision of these Terms, or our Privacy Policy that does not mean it is waived for all time in the future. Any waiver must be in writing and signed by both you and us to be legally binding.
+5. Waiver: signed written consent from a legally authorized representative of XTONOMOUS is required to waive any provisions of this agreement. Any waiver of any provision of this agreement, intentional or otherwise, shall not be deemed a waiver of any other provisions of this agreement.
+6. Governing Law and Venue: this agreement and any controversy related to this agreement shall be interpreted in accordance with and governed by the laws of the state of Washington, or, as appropriate, by federal law as applied by a federal court sitting in Washington, both without regard to Florida choice-of-law rules.
