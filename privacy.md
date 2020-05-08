@@ -1,6 +1,6 @@
 # Privacy Policy for Adam Learns and The AcAdamy
 
-Last update: May 5, 2020 ([version history](https://github.com/AdamLearns/SiteDocuments/commits/master/privacy.md))
+Last update: May 8, 2020 ([version history](https://github.com/AdamLearns/SiteDocuments/commits/master/privacy.md))
 
 **Adam Learns** and **The AcAdamy** ("the site" or "the sites") are owned by **Xtonomous LLC** ("XTONOMOUS", "we", "us", "our") and operated by XTONOMOUS and its affiliates. We may be contacted via email at [adam@adamlearns.live](mailto:adam@adamlearns.live).
 
@@ -60,10 +60,10 @@ For further information, please see the relevant privacy policies for each Third
   - Google Firebase<sup>3</sup>: the Services are run on Google Firebase. This includes site hosting, data storage, and authentication.
 - Paddle
   - Paddle's payment platform<sup>4</sup>: the Services make use of Paddle as a payment platform. XTONOMOUS does not get payment-specific information like your credit card, debit card, PayPal account, or home address. We _do_ have access to your email address as part of your Authentication Information.
-  - Paddle uses cookies to improve their site and for marketing activities<sup>4</sup>. Because Paddle uses them for marketing activities, we ask for your consent to use these cookies before allowing you to make a purchase. You are able to revoke this consent at any time through the Account page.
+  - Paddle uses cookies as part of the purchasing flow, but these cookies are not used for marketing activities<sup>4</sup>.
 - Facebook
   - Facebook pixel<sup>5</sup>: this is used similarly to Google Analytics—for aggregate information on session information, user demographics, and behavior patterns.
-- SendGrid (AKA Twilio)<sup>6</sup>: this is used to send marketing and promotional materials if you have opted in to such emails. This consent can be revoked by using the "unsubscribe" link at the bottom of the email, or, if you have an account with us, via the Account page.
+- Mailchimp<sup>6</sup>: this is used to send marketing and promotional materials if you have opted in to such emails. Your email address is shared with Mailchimp to facilitate sending communications to you. Your consent can be revoked in any of these ways: 1) by using the "unsubscribe" link at the bottom of the email, 2) if you have an account with us, via the Account page, 3) by emailing support.
 - Identity providers (e.g. Google, Twitter, Twitch)
   - When you log in using another site as an identity provider, you are actually going _through_ their site, at which point you are subject to their privacy policies. Please look up the privacy policy for these individual sites to find out more about how they treat your data.
 
@@ -116,6 +116,6 @@ Our Privacy Policy may change from time to time. We will post any Policy changes
 - <sup>1</sup>Google Fonts privacy FAQ: https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users
 - <sup>2</sup>How Google uses information from sites or apps that use their services: https://policies.google.com/technologies/partner-sites
 - <sup>3</sup>Google's general privacy policy: https://policies.google.com/privacy
-- <sup>4</sup>Paddle's privacy policy: https://paddle.com/privacy/
+- <sup>4</sup>Paddle's privacy/GDPR policy: https://paddle.com/gdpr/
 - <sup>5</sup>Facebook's cookie policy: https://www.facebook.com/policies/cookies/
-- <sup>6</sup>SendGrid's privacy policy: https://www.twilio.com/legal/privacy
+- <sup>6</sup>Mailchimp's privacy policy (specifically for contacts): https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts
