@@ -1,6 +1,6 @@
 # Privacy Policy for Adam Learns and The AcAdamy
 
-Last update: May 8, 2020 ([version history](https://github.com/AdamLearns/SiteDocuments/commits/master/privacy.md))
+Last update: May 22, 2020 ([version history](https://github.com/AdamLearns/SiteDocuments/commits/master/privacy.md))
 
 **Adam Learns** and **The AcAdamy** ("the site" or "the sites") are owned by **Xtonomous LLC** ("XTONOMOUS", "we", "us", "our") and operated by XTONOMOUS and its affiliates. We may be contacted via email at [adam@adamlearns.live](mailto:adam@adamlearns.live).
 
@@ -19,6 +19,7 @@ By accessing, logging into, or interacting with the Services, you are consenting
 3. **Personal Information**: this includes email address, username, and password as mentioned by Authentication Information.
 4. **Metrics Information**: this includes which parts of the Services you use and how long you use them for.
 5. **OpenID Information**: when you choose to connect with certain identity providers (e.g. Twitch or Twitter), we may pull in information from this third party, e.g. your ID with that provider and/or the list of channels/users that you follow.
+6. **User-generated Content**: this includes reviews that you provide for courses.
 
 ## How we use information that we collect
 
@@ -29,6 +30,7 @@ We use the information we collect from all of our Services to provide, maintain,
 3. **Personal Information**: with your consent, we may use your email address to inform you about our Services. We may also email you transactionally, e.g. with verification emails or password-reset emails.
 4. **Metrics Information**: this is used to improve the services, e.g. to identify where features of the site can be made more accessible.
 5. **OpenID Information**: this is used for integration with other sites where Adam Learns has a presence. For example, a reward may be granted or access to a feature may be unlocked by people who follow on Twitch, YouTube, Patreon, or Twitter.
+6. **User-generated Content**: this is shown to other users on and off the site.
 
 Please keep in mind that comments sections, forums, and other similar areas of our Services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
